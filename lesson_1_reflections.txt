@@ -1,0 +1,39 @@
+1. How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+Door het bekijken van de verschillen bij  de - en de + tekens kon ik de verschillen zien. 
+
+
+2. How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+Omdat zodoende fouten sneller hersteld kunnen worden en aanpassingen gedaan kunnen worden. 
+
+
+3. What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+Er onstaat een logische opbouw van de commit. Daardoor is ook het terugvinden van deze commit makkelijk en is dit ook makkelijker aan te passen
+
+
+4. Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+Omdat er in een map verschillende bestanden kunnen staan die samenwerken, waardoor veranderingen op deze andere bestanden invloed kunnen hebben
+
+
+5. How can you use the commands git log and git diff to view the history of files?
+
+Door de verschillende ID's in te voeren en dan te vergelijken door middel van de + en - tekens. git log laat zien welke commits er zijn en met git diff kan er gezocht worden naar veranderingen. 
+
+
+6. How might using version control make you more confident to make changes that could break something?
+
+omdat er makkelijk terug gekeken kan worden op eerdere aanpassingen en de bugs kunnen worden opgelost. 
+
+
+7. Now that you have your workspace set up, what do you want to try using Git for?
+
+verschillen maken in bestanden, schrijven van code enz. 
+
+
+
+8. What happens when you initialize a repository? Why do you need to do it?
+
+Er wordt een repository opgezet en hierin worden bestanden opgeslagen en Git zal dit gaan volgen met elke commit. 
