@@ -1,0 +1,9 @@
+1. What happens when you initialize a repository? Why do you need to do it?
+
+Er wordt een repository opgezet en hierin worden bestanden opgeslagen en Git zal dit gaan volgen met elke commit. 
+
+
+
+2. How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Dit gebied is een soort van testplek, waar de wijzigingen nog niet zijn vastgezet als een commit
