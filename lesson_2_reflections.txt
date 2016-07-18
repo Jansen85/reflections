@@ -7,3 +7,26 @@ Er wordt een repository opgezet en hierin worden bestanden opgeslagen en Git zal
 2. How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 Dit gebied is een soort van testplek, waar de wijzigingen nog niet zijn vastgezet als een commit
+
+
+
+3. How can you use the staging area to make sure you have one commit per logical change?
+
+Door de bestanden toe te voegen die zijn gewijzigd, en niet meer. 
+
+
+
+4. What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+wanneer je veranderingen wilt aanbrengen die niet op de master van toepassing zijn. 
+
+
+5. How do the diagrams help you visualize the branch structure?
+
+door de structuur in te zien is duidelijk waar in je bent en in welke branch. 
+
+
+
+6. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Hierdoor worden verschillende aanpassingen samengevoegd en kan er ook worden gezocht in de commits van verschillende bestanden.
