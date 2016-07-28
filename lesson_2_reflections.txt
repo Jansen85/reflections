@@ -30,3 +30,9 @@ door de structuur in te zien is duidelijk waar in je bent en in welke branch.
 6. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 Hierdoor worden verschillende aanpassingen samengevoegd en kan er ook worden gezocht in de commits van verschillende bestanden.
+
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Dat de verschillen die een error veroorzaken door manueel moeten worden opgelost
